@@ -1,3 +1,3 @@
 <?php
-echo "BANDANADHAM JEEVAN PAUL";
+echo "BANDANADHAM JEEVAN tinku";
 ?>
